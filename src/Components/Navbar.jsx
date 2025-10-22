@@ -15,7 +15,7 @@ const Navbar = () => {
             <MyLink to={"/"}>Home</MyLink>
           </li>
           <li>
-            <MyLink to={"/aboutus"}>About US</MyLink>
+            <MyLink to={"/aboutus"}>About Us</MyLink>
           </li>
           <li>
             <MyLink to={"/profile"}>Profile</MyLink>
